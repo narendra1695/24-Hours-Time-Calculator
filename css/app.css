@@ -1,11 +1,8 @@
 body {
-    background: #ecf0f1;
-    box-sizing: border-box;
     font-family: 'Fira Mono', monospace;
 }
 
 h2 {
-    color: white;
     background-color: #2980b9;
 }
 
